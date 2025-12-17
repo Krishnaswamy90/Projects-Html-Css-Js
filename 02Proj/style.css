@@ -46,7 +46,7 @@ body{
   animation-delay:0.3s
 }
 
-@keyframes Load {
+@keyframes load {
   0%{
     width:30px;
     height:30px;
